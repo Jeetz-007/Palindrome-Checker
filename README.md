@@ -28,10 +28,10 @@ palindrome-checker/
 ## 🖥️ How to Run
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/Jeetz-007/Palindrome-Checker.git
 2. Navigate into the folder:
     cd palindrome-checker
-    
-3. Open index.html in your browser.
+
+3. Open index.html in your browser
 
 
