@@ -4,7 +4,7 @@ const result = document.querySelector('.result');
 
 button.addEventListener('click',(e)=>{
 
-    let text = input.value.trim().toLowerCase();
+    let text = input.value.trim().toLowerCase().replace(/[^a-z0-9]/g, "");
     if(!text){
         result.innerText = "Please enter a valid text 😐";
         return;
