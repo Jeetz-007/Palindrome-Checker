@@ -35,3 +35,5 @@ palindrome-checker/
 3. Open index.html in your browser
 
 
+## 🌐 Live Demo
+    --> https://jeetz-007.github.io/Palindrome-Checker/ 
